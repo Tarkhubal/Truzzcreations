@@ -1,0 +1,83 @@
+@font-face {
+    font-family: ProcrastinatingPixie;
+    src: url(https://cdn.glitch.global/ee763057-497c-46e1-a5ee-97bae179396d/Library3am-5V3Z.otf?v=1673900483138);
+}
+
+@font-face {
+    font-family: Do4Brain;
+    src: url(https://cdn.glitch.global/ee763057-497c-46e1-a5ee-97bae179396d/Do4BrainLight-vmXD9.ttf?v=1673900971150);
+}
+
+@font-face {
+    font-family: Colombia;
+    src: url(https://cdn.glitch.global/ee763057-497c-46e1-a5ee-97bae179396d/Colombia-Rp0DV.ttf?v=1673901130854);
+}
+
+body {
+    background-color: #222222;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+main h1 {
+    font-family: ProcrastinatingPixie;
+    font-size: 6em;
+    text-align: center;
+    margin: 0;
+}
+
+main h2 {
+    font-family: Colombia;
+    font-size: 3em;
+    text-align: center;
+    margin: 0;
+}
+
+.pagetitle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#main h2 {
+    font-size: 2em;
+    text-align: center;
+    margin: 0;
+}
+
+#main p {
+    font-size: 1.5em;
+    text-align: center;
+    margin: 0;
+}
+
+footer a {
+    font-size: 1.5em;
+    text-align: center;
+    margin: 0;
+}
+
+footer a:link,
+footer a:visited,
+footer a:active,
+footer a:focus {
+    color: #ffffff;
+}
+
+footer a:hover {
+    color: #f00;
+}
+
+footer a:link {
+    text-decoration: none;
+}
