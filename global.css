@@ -121,11 +121,11 @@ main .faq-content {
 }
 
 main .faq-content img {
-  margin-left: auto;
-  margin-right: auto;
-  justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
     display: flex;
-  max-width: 50vw;
+    max-width: 50vw;
 }
 
 main .faq-content h2,
