@@ -1,0 +1,23 @@
+@font-face {
+    font-family: ProcrastinatingPixie;
+    src: url(./ProcrastinatingPixie-WyVOO.ttf)
+        /* src: url(?); */
+}
+
+@font-face {
+    font-family: Library3am;
+    src: url(./Library3am-5V3Z.otf);
+    /* src: url(https://cdn.glitch.global/ee763057-497c-46e1-a5ee-97bae179396d/Library3am-5V3Z.otf?v=1673900483138); */
+}
+
+@font-face {
+    font-family: "Do4Brain Light";
+    src: url(./Do4BrainLight-vmXD9.ttf)
+        /* src: url(https://cdn.glitch.global/ee763057-497c-46e1-a5ee-97bae179396d/Do4BrainLight-vmXD9.ttf?v=1673900971150); */
+}
+
+@font-face {
+    font-family: Colombia;
+    src: url(./Colombia-Rp0DV.ttf)
+        /* src: url(https://cdn.glitch.global/ee763057-497c-46e1-a5ee-97bae179396d/Colombia-Rp0DV.ttf?v=1673901130854); */
+}
