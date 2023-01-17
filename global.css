@@ -138,13 +138,13 @@ main .faq-content p {
     font-size: 1.25em;
 }
 
-main .content1:hover,
+/* main .content1:hover,
 main .content2:hover {
     transition: all 0.9s ease-out 0s;
     background-color: #ccc;
     color: black;
     text-shadow: 0.3rem 0.3rem 0.5rem black;
-}
+} */
 
 main .myprojects {
     display: flexbox;
