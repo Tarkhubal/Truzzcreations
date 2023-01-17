@@ -120,6 +120,14 @@ main .faq-content {
     border-radius: 5px;
 }
 
+main .faq-content img {
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+    display: flex;
+  max-width: 50vw;
+}
+
 main .faq-content h2,
 main .faq-content p {
     text-align: center;
