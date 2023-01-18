@@ -22,7 +22,7 @@
 }
 
 #nav-bar .nav-block {
-  -webkit-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
     text-align: center;
     display: flex;
     max-width: fit-content;
@@ -33,7 +33,7 @@
 
 #nav-bar .nav-block:hover {
   background-color: rgba(255, 255, 255, 0.8);
-  -webkit-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
   color: black;
 }
 
@@ -48,6 +48,5 @@
     #nav-bar {
         -webkit-backdrop-filter: blur(10px);
         backdrop-filter: blur(10px);
-        /* background-color: rgba(255, 255, 255, 0.5); */
     }
 }
