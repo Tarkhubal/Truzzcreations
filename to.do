@@ -1,1 +1,2 @@
-Est-ce que je laisse les hover blanc sur les faq.content1 & faq.content2 ?
+- update nav
+- add a page with the conditions/prices
