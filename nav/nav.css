@@ -1,0 +1,40 @@
+:root {
+    --nav--block-width: 50%;
+    --nav--block-h3-width: 50vw;
+    background-color: #222;
+    color: white;
+}
+
+#nav-bar {
+    background-color: rgba(0, 0, 0, 0.2);
+    display: flex;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* filter: blur(0.9px); */
+    position: fixed;
+    z-index: 1000;
+    width: 98vw;
+}
+
+#nav-bar .nav-block {
+    text-align: center;
+    display: flex;
+    max-width: fit-content;
+    width: var(--nav--block-width);
+}
+
+#nav-bar .nav-block h3 {
+    width: var(--nav--block-h3-width);
+    justify-content: center;
+}
+
+#nav-bar .nav-block h3 {
+    display: flex
+}
+
+@supports ((-webkit-backdrop-filter: none) or (backdrop-filter: none)) {
+    #nav-bar .nav-block {
+        -webkit-backdrop-filter: blur(10px);
+        backdrop-filter: blur(10px);
+        /* background-color: rgba(255, 255, 255, 0.5); */
+    }
+}
