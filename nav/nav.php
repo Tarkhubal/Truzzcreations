@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://truzzcreations.glitch.me/nav/nav.css" />
+<link rel="stylesheet" href="https://truzzcreations.netlify.app/nav/nav.css" />
 <nav id="nav-bar">
     <div class="nav-block" id="block1" onclick="window.location.href='https://truzzcreations.glitch.me'">
         <h3>Accueil</h3>
