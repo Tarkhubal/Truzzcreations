@@ -156,6 +156,10 @@ main .faq-content p {
   font-size: 1.25em;
 }
 
+.main .faq-content img {
+  border-radius: 10px;
+}
+
 /* main .content1:hover,
 main .content2:hover {
     transition: all 0.9s ease-out 0s;

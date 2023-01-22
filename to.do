@@ -1,2 +1,0 @@
-- update nav
-- add a page with the conditions/prices
