@@ -6,7 +6,8 @@
 }
 
 #envelope,
-#discord {
+#discord,
+#paypal {
     font-size: 8em;
     color: #fff;
     border-radius: 20px;
